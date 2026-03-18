@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/user">
+        <file>resources/head/icons8-doctor-48.png</file>
+        <file>resources/head/icons8-man-48.png</file>
+        <file>resources/head/icons8-woman-48.png</file>
+        <file>resources/head/user.svg</file>
+    </qresource>
+</RCC>

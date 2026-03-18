@@ -1,0 +1,64 @@
+<RCC>
+    <qresource prefix="/new/user">
+        <file>resources/head/icons8-doctor-48.png</file>
+        <file>resources/head/icons8-man-48.png</file>
+        <file>resources/head/icons8-woman-48.png</file>
+        <file>resources/head/user.svg</file>
+    </qresource>
+    <qresource prefix="/new/setting">
+        <file>resources/setting/exit.png</file>
+        <file>resources/setting/radio-button-22-checked.png</file>
+        <file>resources/setting/radio-button-22.png</file>
+        <file>resources/setting/setting-60.png</file>
+        <file>resources/setting/setting-60-hover.png</file>
+    </qresource>
+    <qresource prefix="/new/icon">
+        <file>resources/Angelica+.ico</file>
+    </qresource>
+    <qresource prefix="/new/credit">
+        <file>resources/credit/smile.png</file>
+        <file>resources/credit/calm.png</file>
+        <file>resources/credit/sad.png</file>
+    </qresource>
+    <qresource prefix="/new/home">
+        <file>resources/home/home.png</file>
+        <file>resources/home/home-hover.png</file>
+        <file>resources/home/body.png</file>
+        <file>resources/home/add.png</file>
+        <file>resources/home/register.png</file>
+        <file>resources/home/skin.png</file>
+        <file>resources/home/left-30.png</file>
+        <file>resources/home/position-25.png</file>
+    </qresource>
+    <qresource prefix="/new/text">
+        <file>PrivacyAgreement.txt</file>
+        <file>UserAgreement.txt</file>
+    </qresource>
+    <qresource prefix="/new/ai">
+        <file>resources/ai/messages-60.png</file>
+        <file>resources/ai/messages-60-hover.png</file>
+        <file>resources/ai/sending-30.png</file>
+        <file>resources/ai/loading.gif</file>
+    </qresource>
+    <qresource prefix="/new/record">
+        <file>resources/record/record-60.png</file>
+        <file>resources/record/record-60-hover.png</file>
+    </qresource>
+    <qresource prefix="/new/general">
+        <file>resources/refresh-30.png</file>
+    </qresource>
+    <qresource prefix="/new/diseases">
+        <file>resources/diseases/baidianfeng.jpg</file>
+        <file>resources/diseases/cuochuang.png</file>
+        <file>resources/diseases/meidu.png</file>
+        <file>resources/diseases/shichuang.png</file>
+        <file>resources/diseases/shizhen.png</file>
+        <file>resources/diseases/meiguicuochuang.jpg</file>
+        <file>resources/diseases/yingpibing.png</file>
+        <file>resources/diseases/yinxiebing.png</file>
+    </qresource>
+    <qresource prefix="/new/chart">
+        <file>resources/chart/line-chart-60.png</file>
+        <file>resources/chart/line-chart-60-hover.png</file>
+    </qresource>
+</RCC>
