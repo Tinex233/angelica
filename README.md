@@ -6,7 +6,7 @@
 <br>
 
 ## 应用架构
-服务器用python的Flask搭建  
+服务器用python的Flask搭建，使用前需要修改.env文件  
 <br>
 数据库字段已通过Navicat Premium导出于“mysql”文件夹内  
 <br>
